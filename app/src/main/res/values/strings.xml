@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MeshChat</string>
+    <string name="mesh_starting">Starting mesh network…</string>
+</resources>
